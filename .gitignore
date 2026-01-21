@@ -35,9 +35,8 @@ build/
 *.db
 *.sqlite3
 
-# ML / model files
+# ML / model files (optional if you want to exclude large models)
 ml_models/*.pkl
-ml_models/*.joblib
 
 # Streamlit / dashboard temporary files
 .streamlit/
