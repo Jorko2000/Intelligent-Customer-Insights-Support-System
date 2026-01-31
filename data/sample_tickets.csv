@@ -1,0 +1,4 @@
+id,customer_name,email,subject,description,category,priority,status,created_at,sentiment
+1,John Doe,john@example.com,Payment Issue,"I was charged twice",billing,medium,open,2026-01-01,-0.2
+2,Jane Smith,jane@example.com,App Crash,"App crashes when opening",technical,high,open,2026-01-03,-0.5
+3,Ali Khan,ali@example.com,Password Reset,"How to reset password?",general,low,closed,2026-01-05,0.1
